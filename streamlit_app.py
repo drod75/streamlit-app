@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write('# Streamlit Portfolio')
+st.title('# Streamlit Portfolio')
