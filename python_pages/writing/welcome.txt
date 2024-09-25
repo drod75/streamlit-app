@@ -1,0 +1,10 @@
+# WELCOME:
+This is the Data All in All Website, data related work can be done here such as:
+- **Account Saving Features**
+- **Data Cleaning**
+- **Data Graphing**
+- **Data Report Suggesting**
+Make sure to use all our features if you can!
+
+# CREDITS:
+- Creator: [DR](https://github.com/drod75)
