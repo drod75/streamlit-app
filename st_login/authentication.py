@@ -6,7 +6,8 @@ from yaml.loader import SafeLoader
 
 def authenticate_user():
    # Load configuration file
-    with open('.streamlit\config.yaml') as file:
+    config_path = '.streamlit\config.yaml'
+    with open(config_path) as file:
         config = yaml.load(file, Loader=SafeLoader)
 
     # Initialize the authenticator
