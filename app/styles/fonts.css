@@ -2,7 +2,7 @@
     font-family: myFirstFont;
     src: url(https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap);
   }
-  
-  html, body, header, p, h1, span [class*="css"] {
+
+  html, body, header, p, span, h1 [class*="css"] {
     font-family: myFirstFont;
   }

@@ -1,6 +1,9 @@
 [theme]
 base = 'light'
+#off blue
 primaryColor = '#dfedf3'
-backgroundColor = '#f8fbfc'
+#white
+backgroundColor = '#f8fbfc' 
+#purple
 secondaryBackgroundColor = '#ddcffd'
 textColor = 'black'
